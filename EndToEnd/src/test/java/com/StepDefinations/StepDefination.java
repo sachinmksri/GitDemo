@@ -1,7 +1,6 @@
 package com.StepDefinations;
 
 import io.cucumber.java.en.Given;
-
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.builder.RequestSpecBuilder;
@@ -20,8 +19,6 @@ import com.resources.APIResources;
 import com.resources.GenericMethods;
 import com.resources.TestDataBuild;
 import com.resources.Utils;
-
-//comments added
 
 public class StepDefination extends GenericMethods {
 	RequestSpecification req;
