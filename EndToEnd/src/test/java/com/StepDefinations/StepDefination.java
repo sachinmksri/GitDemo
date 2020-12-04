@@ -1,6 +1,7 @@
 package com.StepDefinations;
 
 import io.cucumber.java.en.Given;
+
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.builder.RequestSpecBuilder;
@@ -14,11 +15,13 @@ import static io.restassured.RestAssured.given;
 
 import java.io.IOException;
 
-import com.pojo.AddPlace;
-import com.resources.APIResources;
-import com.resources.GenericMethods;
-import com.resources.TestDataBuild;
-import com.resources.Utils;
+
+import com.resources.*;
+import com.pojo.*;
+
+
+//adding comments
+
 
 public class StepDefination extends GenericMethods {
 	RequestSpecification req;
