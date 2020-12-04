@@ -11,4 +11,20 @@ public class GitTest {
 		
 		
 	}
+	
+	
+
+
+	@Test
+	public void added()
+	{
+		
+	}
+	@Test
+	public void sample()
+
+	{
+		
+		
+	}
 }
