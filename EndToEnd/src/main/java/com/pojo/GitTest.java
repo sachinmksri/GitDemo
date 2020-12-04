@@ -13,9 +13,14 @@ public class GitTest {
 	}
 	
 	
+<<<<<<< HEAD
 
 	@Test
 	public void added()
+=======
+	@Test
+	public void sample()
+>>>>>>> 7ea1e33ba952eca86abeac6384ffb5aade269c89
 	{
 		
 		
